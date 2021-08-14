@@ -11,10 +11,10 @@ I'm a self-taught software developer living in Canada, I'm fluent with the Java 
 </p>
 
 ### :technologist: Recent Projects:
-- <img src="https://raw.githubusercontent.com/Rainnny7/Rainnny7/master/assets/ArcaneClient.svg" width="25px"> ArcaneClient **-** Arcane is an all-in-one Minecraft PvP client ([here](https://github.com/ArcaneClientNET))
+- <img src="https://raw.githubusercontent.com/Rainnny7/Rainnny7/master/assets/ArcaneClient.svg" width="15px"> ArcaneClient **-** Arcane is an all-in-one Minecraft PvP client ([here](https://github.com/ArcaneClientNET))
 
 ### ☎️ Contact:
-- <img src="https://raw.githubusercontent.com/Rainnny7/Rainnny7/master/assets/discord.svg" width="25px"> Discord **-** Braydon#2712
+- <img src="https://raw.githubusercontent.com/Rainnny7/Rainnny7/master/assets/discord.svg" width="15px"> Discord **-** Braydon#2712
 - 📫 Email **-** braydonrainnny@gmail.com
 
 ### :bar_chart: GitHub Stats:
