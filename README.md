@@ -6,6 +6,7 @@ I'm a self-taught software developer living in Canada, I'm fluent with the Java 
 <p align="left">
   <img src="https://raw.githubusercontent.com/Rainnny7/Rainnny7/master/assets/java.svg" height="auto" width="40px">
   <img src="https://raw.githubusercontent.com/Rainnny7/Rainnny7/master/assets/git.svg" height="auto" width="40px">
+  <img src="https://raw.githubusercontent.com/Rainnny7/Rainnny7/master/assets/maven.svg" height="auto" width="40px">
   <img src="https://raw.githubusercontent.com/Rainnny7/Rainnny7/master/assets/mysql.svg" height="auto" width="40px">
   <img src="https://raw.githubusercontent.com/Rainnny7/Rainnny7/master/assets/mongodb.svg" height="auto" width="40px">
 </p>
