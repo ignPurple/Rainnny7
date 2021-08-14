@@ -1,6 +1,6 @@
 # Hi there, I'm Braydon! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px">
 
-I'm a self-taught software developer living in Canada, I'm fluent with the Java programming language and I've had my fair share of working with other programming languages such as Kotlin, C#, and PHP.
+I'm a self-taught software developer living in Canada, I'm fluent with the Java programming language and I've been working with it for 4.5 years. I've also had my fair share of working with other programming languages such as Kotlin, C#, and PHP.
 
 ### :nerd_face: Skills:
 <p align="left">
