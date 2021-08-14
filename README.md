@@ -4,17 +4,17 @@ I'm a self-taught software developer living in Canada, I'm fluent with the Java 
 
 ### :nerd_face: Skills:
 <p align="left">
-  <img src="https://raw.githubusercontent.com/Rainnny7/Rainnny7/master/assests/java.svg" height="auto" width="40px">
-  <img src="https://raw.githubusercontent.com/Rainnny7/Rainnny7/master/assests/git.svg" height="auto" width="40px">
-  <img src="https://raw.githubusercontent.com/Rainnny7/Rainnny7/master/assests/mysql.svg" height="auto" width="40px">
-  <img src="https://raw.githubusercontent.com/Rainnny7/Rainnny7/master/assests/mongodb.svg" height="auto" width="40px">
+  <img src="https://raw.githubusercontent.com/Rainnny7/Rainnny7/master/assets/java.svg" height="auto" width="40px">
+  <img src="https://raw.githubusercontent.com/Rainnny7/Rainnny7/master/assets/git.svg" height="auto" width="40px">
+  <img src="https://raw.githubusercontent.com/Rainnny7/Rainnny7/master/assets/mysql.svg" height="auto" width="40px">
+  <img src="https://raw.githubusercontent.com/Rainnny7/Rainnny7/master/assets/mongodb.svg" height="auto" width="40px">
 </p>
 
 ### :technologist: Recent Projects:
-- <img src="https://raw.githubusercontent.com/Rainnny7/Rainnny7/master/assests/ArcaneClient.svg" width="25px"> ArcaneClient **-** Arcane is an all-in-one Minecraft PvP client ([here](https://github.com/ArcaneClientNET))
+- <img src="https://raw.githubusercontent.com/Rainnny7/Rainnny7/master/assets/ArcaneClient.svg" width="25px"> ArcaneClient **-** Arcane is an all-in-one Minecraft PvP client ([here](https://github.com/ArcaneClientNET))
 
 ### ☎️ Contact:
-- <img src="https://raw.githubusercontent.com/Rainnny7/Rainnny7/master/assests/discord.svg" width="25px"> Discord **-** Braydon#2712
+- <img src="https://raw.githubusercontent.com/Rainnny7/Rainnny7/master/assets/discord.svg" width="25px"> Discord **-** Braydon#2712
 - 📫 Email **-** braydonrainnny@gmail.com
 
 ### :bar_chart: GitHub Stats:
