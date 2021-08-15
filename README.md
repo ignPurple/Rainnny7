@@ -14,7 +14,7 @@ I'm a self-taught software developer living in Canada, I'm fluent with the Java 
 
 ### :technologist: Recent Projects:
 - <img src="https://raw.githubusercontent.com/Rainnny7/Rainnny7/master/assets/ArcaneClient.svg" height="15px" width="21px"> ArcaneClient **-** Arcane is an all-in-one Minecraft PvP client ([here](https://github.com/ArcaneClientNET))
-- ⚔️ RainSpigot **-** A fork of ([PaperSpigot](https://github.com/PaperMC/Paper)) with more features and optimizations
+- ⚔️ RainSpigot **-** A fork of [PaperSpigot](https://github.com/PaperMC/Paper) with more features and optimizations
 - <img src="https://raw.githubusercontent.com/Rainnny7/Rainnny7/master/assets/Rainplex.png" height="15px" width="19px"> Rainplex **-** Rainplex is a remake of the once popular Minecraft server, Mineplex
 
 ### ☎️ Contact:
