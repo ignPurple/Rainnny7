@@ -13,7 +13,7 @@ I'm a self-taught software developer living in Canada, I'm fluent with the Java 
 </p>
 
 ### :technologist: Recent Projects:
-- <img src="https://raw.githubusercontent.com/Rainnny7/Rainnny7/master/assets/WildNetwork.png" height="15px" width="21px"> WildNetwork **-** WildNetwork is a popular prison server where I work on various other projects - this is where I spend most of my time developing.
+- <img src="https://raw.githubusercontent.com/Rainnny7/Rainnny7/master/assets/WildNetwork.png" height="15px" width="15px"> WildNetwork **-** WildNetwork is a popular prison server where I work on various other projects - this is where I spend most of my time developing.
 - &nbsp;<img src="https://raw.githubusercontent.com/Rainnny7/Rainnny7/master/assets/CubeCraft.png" height="15px" width="15px"> FakeCube **-** FakeCube is a remake of the popular Minecraft server, CubeCraft
 - <img src="https://raw.githubusercontent.com/Rainnny7/Rainnny7/master/assets/ArcaneClient.svg" height="15px" width="21px"> ArcaneClient **-** Arcane is an all-in-one Minecraft PvP client ([here](https://github.com/ArcaneClientNET))
 - ⚔️ RainSpigot **-** A fork of [PaperSpigot](https://github.com/PaperMC/Paper) with more features and optimizations
