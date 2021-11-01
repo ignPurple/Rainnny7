@@ -1,6 +1,6 @@
 # Hi there, I'm Braydon! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px">
 
-I'm a self-taught software developer living in Canada, I'm fluent with the Java programming language and I've been working with it for 4.5 years. I've also had my fair share of working with other programming languages such as Kotlin, C#, and PHP.
+I'm a self-taught software developer living in Canada, I'm fluent with the Java programming language and I've been working with it for 5 years. I've also had my fair share of working with other programming languages such as Kotlin, C#, and PHP.
 
 ### :nerd_face: Skills:
 <p align="left">
@@ -13,6 +13,7 @@ I'm a self-taught software developer living in Canada, I'm fluent with the Java 
 </p>
 
 ### :technologist: Recent Projects:
+- &nbsp;<img src="https://raw.githubusercontent.com/Rainnny7/Rainnny7/master/assets/WildNetwork.png" height="15px" width="15px"> WildNetwork **-** WildNetwork is a popular prison server where I work on various other projects - this is where I spend most of my time developing.
 - &nbsp;<img src="https://raw.githubusercontent.com/Rainnny7/Rainnny7/master/assets/CubeCraft.png" height="15px" width="15px"> FakeCube **-** FakeCube is a remake of the popular Minecraft server, CubeCraft
 - <img src="https://raw.githubusercontent.com/Rainnny7/Rainnny7/master/assets/ArcaneClient.svg" height="15px" width="21px"> ArcaneClient **-** Arcane is an all-in-one Minecraft PvP client ([here](https://github.com/ArcaneClientNET))
 - ⚔️ RainSpigot **-** A fork of [PaperSpigot](https://github.com/PaperMC/Paper) with more features and optimizations
